@@ -1,4 +1,3 @@
-Here's a README file template that includes the sample inputs and outputs for each of the algorithms you provided:
 
 ---
 
@@ -247,4 +246,3 @@ Feel free to explore the implementations, modify them, and use the sample inputs
 
 ---
 
-You can modify this template further based on your specific requirements or add sections like Installation, Usage, or Contributing as needed!
